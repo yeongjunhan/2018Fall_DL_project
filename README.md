@@ -13,13 +13,20 @@ Based on web_crawling and face detection,
 - CAAE (https://github.com/ZZUTK/Face-Aging-CAAE)
 
 ## Data
-
 ![Web crawl data](./image/img1.png)
+- Web crawling
+- Face detection
 
 ## Cycle-GAN results
-![Cycle-GAN](이미지파일경로.jpg)
-## CAAE results
+![Cycle-GAN](./image/img2.png)
 
+- Good results for Cycle-GAN
+- Each images are featured the baby's things.
+
+## CAAE results
+![CAAE1](./image/CAAE1.png)
+![CAAE2](./image/CAAE2.png)
+![CAAE3](./image/CAAE3.png)
 
 ## References
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
