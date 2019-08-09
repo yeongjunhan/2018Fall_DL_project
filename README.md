@@ -4,7 +4,7 @@ SNU graduate DL project. Using UTK_Face data, it aims to make person's image you
 ## Date 
 2018_fall Deep Learning Course Final project(2018-12-17)
 
-## Member
+## Members
 YeongJunHan, Yuntae Kang
 
 ## Methods
