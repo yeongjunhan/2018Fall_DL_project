@@ -24,9 +24,11 @@ Based on web_crawling and face detection,
 - Each images are featured the baby's things.
 
 ## CAAE results
-![CAAE1](./image/tunning_4.png)
-![CAAE2](./image/tunning_5.png)
-![CAAE3](./image/tunning_6.png)
+![CAAE1](./image/tunning_4.PNG)
+
+![CAAE2](./image/tunning_5.PNG)
+
+![CAAE3](./image/tunning_6.PNG)
 
 ## References
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
